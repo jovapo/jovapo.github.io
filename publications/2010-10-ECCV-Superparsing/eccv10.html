@@ -1,0 +1,64 @@
+<html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4E9YQRHP4N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4E9YQRHP4N');
+</script>
+</head>
+<body>
+<center><h1> SuperParsing: Scalable Nonparametric Image Parsing with Superpixels</h1>
+<h4>Joseph Tighe and Svetlana Lazebnik<br />
+Dept. of Computer Science, University of North Carolina at Chapel Hill</h4>
+
+
+<table border=0 cellpadding=10 width=620>
+<img src="systemoverview.jpg" width=600 />
+<tr><td colspan=2>
+<b>Abstract: </b><i>This paper presents a simple and effective nonparametric approach to the problem of image parsing, or labeling image regions (in our case, superpixels produced by bottom-up segmentation) with their categories. This approach is based on lazy learning, and it can easily scale to datasets with tens of thousands of images and hundreds of labels. Given a test image, it first performs global scene-level matching against the training set, followed by superpixel-level matching and efficient Markov random field (MRF) optimization for incorporating neighborhood context. Our MRF setup can also compute a simultaneous labeling of image regions into semantic classes (e.g., tree, building, car) and geometric classes (sky, vertical, ground). Our system outperforms the state-of-the-art nonparametric method based on SIFT Flow on a dataset of 2,688 images and 33 labels. In addition, we report per-pixel rates on a larger dataset of 45,676 images and 232 labels. To our knowledge, this is the first complete evaluation of image parsing on a dataset of this size, and it establishes a new benchmark for the problem. Finally, we present an extension of our method to video sequences and report results on a video dataset with frames densely labeled at 1 Hz.</i>
+</td></tr>
+<tr><td colspan=2>
+Citation:<br />
+<a href="http://www.cs.unc.edu/~jtighe/">Joseph Tighe</a> and <a href="http://www.cs.unc.edu/~lazebnik/">Svetlana Lazebnik</a> 
+"SuperParsing: Scalable Nonparametric Image Parsing with Superpixels," European Conference on Computer Vision, 2010.
+(<a href="eccv10-jtighe.pdf">PDF</a>)
+(<a href="eccv10-jtighe-poster.pdf">Poster</a>)
+</td></tr>
+<tr><td colspan=2>
+<b>New!</b> Accepted Journal Version:<br />
+<a href="http://www.cs.unc.edu/~jtighe/">Joseph Tighe</a> and <a href="http://www.cs.unc.edu/~lazebnik/">Svetlana Lazebnik</a> 
+"SuperParsing: Scalable Nonparametric Image Parsing with Superpixels," Accepted by the International Journal of Computer Vision.
+(<a href="jtighe-ijcv12.pdf">PDF</a>)
+(<a href="2010-10-ECCV-Superparsing-code.zip">New Code</a>)
+</td></tr>
+
+<tr><td >
+<h2>Sift Flow Dataset:</h2>
+Output for our entire testset: <a href="siftflow/baseFinal.html">Web</a>, <a href="siftflow/SiftFlowClassifications.zip">Matlab</a><br />
+<a href="siftflow/SiftflowConfusion.pdf">Confusion Matrix</a><br />
+<a href="siftflow/SiftFlowDataset.zip">Full Dataset</a>
+</td><td>
+<h2>Barcelona Dataset:</h2>
+Output for our entire testset: <a href="barcelona/baseFinal.html">Web</a>, <a href="barcelona/BarcelonaClassifications.zip">Matlab</a><br />
+<a href="barcelona/BarcelonaConfusion.pdf">Confusion Matrix</a><br />
+<a href="https://drive.google.com/open?id=0B3Ic1UvwYYjEMG1LeFRrMVdwU3c">Full Dataset</a>
+</td></tr>
+<tr><td  colspan=2>
+<h2>LM+Sun Dataset:</h2>
+Output for our entire testset: <a href="lmsun/index.htm">Web</a><br />
+<a href="https://drive.google.com/open?id=0B3Ic1UvwYYjEekdtaHBOclhTY0E">Full Dataset</a>
+</td></tr>
+<tr><td  colspan=2>
+<h2>CamVid Video Dataset:</h2>
+<iframe width="620" height="430" src="http://www.youtube.com/embed/UZ_NTYCFlHk" frameborder="0" allowfullscreen></iframe>
+</td></tr>
+</table>
+</center>
+
+
+</body>
+</html>

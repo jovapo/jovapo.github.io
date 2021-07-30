@@ -1,0 +1,88 @@
+<HTML>
+<HEAD>
+<TITLE>spatial_envelope_256x256_static_8outdoorcategories insidecity_urb49</TITLE>
+</HEAD>
+<BODY><SCRIPT LANGUAGE="JAVASCRIPT" TYPE="TEXT/JAVASCRIPT">
+<!--
+var lAreas = false;
+var lLegend = false;
+var files = new Array();
+files[1] = "../../LabelsGeo/R200K200TNN80-SPscGistCoHist-sc01ratio C10 B.5.1 S0.000 IS0.000 Pcon IPpot Seg WbS1/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49";
+files[2] = "../../LabelsSemantic/R200K200TNN80-SPscGistCoHist-sc01ratio C10 B.5.1 S0.000 IS0.000 Pcon IPpot Seg WbS1/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49";
+files[3] = "../../LabelsGeo/R200K200TNN80-SPscGistCoHist-sc01ratio C10 B.5.1 S256 IS512 Pcon IPpot Seg WbS1/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49";
+files[4] = "../../LabelsSemantic/R200K200TNN80-SPscGistCoHist-sc01ratio C10 B.5.1 S256 IS512 Pcon IPpot Seg WbS1/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49";
+function roll_over(img_name, i, over)
+{
+	if(over){
+		document[img_name].src = files[i]+"Correct.png";}
+	else{
+		if(lAreas){
+			document[img_name].src = files[i]+"LArea.png";
+		}
+		else if(lLegend){
+			document[img_name].src = files[i]+"NoLegend.png";
+		}
+		else{
+			document[img_name].src = files[i]+".png";}
+	}
+}
+function switch_larea(){
+	lAreas=~lAreas;
+	lLegend=false;
+	for(var i = 1; i < files.length; i++)
+	{
+		img_name = "im_"+i.toString();
+		if(lAreas){
+			document[img_name].src = files[i]+"LArea.png";
+		}
+		else if(lLegend){
+			document[img_name].src = files[i]+"NoLegend.png";
+		}
+		else{
+			document[img_name].src = files[i]+".png";
+		}
+	}
+}
+function switch_legend(){
+	lLegend=~lLegend;
+	lAreas=false;
+	for(var i = 1; i < files.length; i++)
+	{
+		img_name = "im_"+i.toString();
+		if(lAreas){
+			document[img_name].src = files[i]+"LArea.png";
+		}
+		else if(lLegend){
+			document[img_name].src = files[i]+"NoLegend.png";
+		}
+		else{
+			document[img_name].src = files[i]+".png";
+		}
+	}
+}
+//-->
+</SCRIPT>
+<A HREF="javascript:void(0)" onclick="switch_larea()">Toggle Labeled Area</a><br><A HREF="javascript:void(0)" onclick="switch_legend()">Toggle Legend</a><br>imageNum 82
+<center>
+
+<table border="0">
+	<tr>
+<td><img height="256" src="../../Images/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49.jpg"> </td>	</tr>
+</table><br>
+<table border="0">
+	<tr>
+		<td><center>Ground Truth</center></td>
+		<td><center><img  src="../../GroundTruth/LabelsGeo/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49.png"> </center> </td>
+		<td><center><img  src="../../GroundTruth/LabelsSemantic/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49.png"> </center> </td>
+	</tr><tr>
+		<td><center>Local Labeling</center></td>
+		<td><center><a herf="javascript:void(0)" onmouseover="roll_over('im_1',1,1)" onmouseout="roll_over('im_1',1,0)"><img  src="../../LabelsGeo/R200K200TNN80-SPscGistCoHist-sc01ratio C10 B.5.1 S0.000 IS0.000 Pcon IPpot Seg WbS1/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49.png" name="im_1"> </a><br>89.8</center> </td>
+		<td><center><a herf="javascript:void(0)" onmouseover="roll_over('im_2',2,1)" onmouseout="roll_over('im_2',2,0)"><img  src="../../LabelsSemantic/R200K200TNN80-SPscGistCoHist-sc01ratio C10 B.5.1 S0.000 IS0.000 Pcon IPpot Seg WbS1/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49.png" name="im_2"> </a><br>7.4</center> </td>
+	</tr><tr>
+		<td><center>Final Joint Labeling</center></td>
+		<td><center><a herf="javascript:void(0)" onmouseover="roll_over('im_3',3,1)" onmouseout="roll_over('im_3',3,0)"><img  src="../../LabelsGeo/R200K200TNN80-SPscGistCoHist-sc01ratio C10 B.5.1 S256 IS512 Pcon IPpot Seg WbS1/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49.png" name="im_3"> </a><br>94.0</center> </td>
+		<td><center><a herf="javascript:void(0)" onmouseover="roll_over('im_4',4,1)" onmouseout="roll_over('im_4',4,0)"><img  src="../../LabelsSemantic/R200K200TNN80-SPscGistCoHist-sc01ratio C10 B.5.1 S256 IS512 Pcon IPpot Seg WbS1/spatial_envelope_256x256_static_8outdoorcategories/insidecity_urb49.png" name="im_4"> </a><br>0.0</center> </td>
+	</tr><tr>
+	</tr>
+</table></center></BODY>
+</HTML>

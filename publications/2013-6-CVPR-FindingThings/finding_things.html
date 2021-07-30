@@ -1,0 +1,61 @@
+<html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4E9YQRHP4N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4E9YQRHP4N');
+</script>
+</head>
+<body>
+<center><h1>Finding Things: Image Parsing with Regions and Per-Exemplar Detectors </h1>
+<h4>Joseph Tighe and Svetlana Lazebnik<br />
+Dept. of Computer Science, University of North Carolina at Chapel Hill</h4>
+
+
+<table border=0 cellpadding=10 width=820>
+<img src="teaser.jpg" width=800 />
+<tr><td colspan=2>
+<b>Abstract: </b><i>This paper presents a system for image parsing, or labeling each pixel in an image with its semantic category,
+aimed at achieving broad coverage across hundreds of object categories, many of them sparsely sampled.
+The system combines region-level features with per-exemplar sliding window detectors. 
+Per-exemplar detectors are better suited for our parsing task than traditional
+bounding box detectors: they perform well on classes with little training data and high
+intra-class variation, and they allow object masks to be transferred
+into the test image for pixel-level segmentation. The proposed system achieves 
+state-of-the-art accuracy on three challenging datasets, the largest of which contains 45,676 images and 
+232 labels.</i>
+</td></tr>
+<tr><td colspan=2>
+<b>Please note that additional training data was used for CamVid than the results from other papers cited in this work. Specifically, the frames labelled at 15Hz were also included in the training set. We don't believe this extra training data has a significant impact but the comparison to other works is not strictly fair.<b>
+
+</td></tr>
+<tr><td colspan=2>
+Citation:<br />
+
+<a href="http://www.cs.unc.edu/~jtighe/">Joseph Tighe</a> and <a href="http://www.cs.unc.edu/~lazebnik/">Svetlana Lazebnik</a> 
+"Finding Things: Image Parsing with Regions and Per-Exemplar Detectors," CVPR, 2013.
+(<a href="jtighe-cvpr13.pdf">PDF</a>)
+(<a href="jtighe-cvpr13-sup.pdf">Sup</a>)
+(<a href="jtighe-cvpr13-poster.pdf">Poster</a>)
+(<a href="jtighe-cvpr13-code.zip">Code</a>)
+
+</td></tr>
+
+<tr><td >
+<h2>Sift Flow Dataset:</h2>
+Output for our entire testset: <a href="siftflow/index.htm">Web</a><br />
+</td><td>
+<h2>LM+Sun Dataset:</h2>
+Output for our entire testset: <a href="lmsun/index.htm">Web</a><br />
+<a href="https://drive.google.com/open?id=0B3Ic1UvwYYjEekdtaHBOclhTY0E">Full Dataset</a>
+</td></tr>
+</table>
+</center>
+
+
+</body>
+</html>
