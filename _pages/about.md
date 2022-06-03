@@ -15,6 +15,8 @@ Before that I got my PhD under the supervision of [Svetlana Lazebnik](https://sl
 
 News
 ======
+* [2022] We had 4 papers accepted to CVPR
+* [2021] Our NUTA paper was accepted to WACV
 * [2021] We have an upcoming challenge on tracking Airborn Objects at ICCV 2021 [site](https://zontakm9.github.io/aot-iccvw21/)
 * [2021] 3 papers accepted to ICCV! 
     * VidTr: Video Transformer Without Convolutions [pdf](https://arxiv.org/pdf/2104.11746.pdf)
