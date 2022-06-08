@@ -11,7 +11,7 @@ paperurl: https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Si
 supurl: # 2021-6-CVPR-SiamMOT/2021-6-CVPR-SiamMOT-sup.pdf
 posterurl: # 2021-6-CVPR-SiamMOT/2021-6-CVPR-SiamMOT-poster.pdf
 slidesurl: # 2021-6-CVPR-SiamMOT/2021-6-CVPR-SiamMOT-slides.pdf
-codeurl: # 2021-6-CVPR-SiamMOT/2021-6-CVPR-SiamMOT-code.zip
+codeurl: https://github.com/amazon-research/siam-mot
 venue2: ""
 title2: ""
 authors2: "Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe"
