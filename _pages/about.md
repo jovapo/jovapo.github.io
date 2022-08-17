@@ -15,6 +15,8 @@ Before that I got my PhD under the supervision of [Svetlana Lazebnik](https://sl
 
 News
 ======
+* [2022] Out new tracking dataset is now avalible [here](https://amazon-research.github.io/tracking-dataset/personpath22.html)
+* [2022] We had 3 papers accepted to ECCV Links Coming soon
 * [2022] We had 4 papers accepted to CVPR
 * [2021] Our NUTA paper was accepted to WACV
 * [2021] We have an upcoming challenge on tracking Airborn Objects at ICCV 2021 [site](https://zontakm9.github.io/aot-iccvw21/)
