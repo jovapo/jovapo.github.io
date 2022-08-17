@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Joseph Tighe"
-excerpt: "I'm a Sr. Applied Science Manage at Amazon AWS AI working in Computer Vision. I'm interested in detection, video classification, tracking and self-supervised learning. I was part of the initial Rekogntion video launch. Before I came to AWS I was part of the team that launched Amazon GO. Before that I got my PhD under the supervision of Svetlana Lazebnik at UNC Chapel Hill with a focus on non-parametric methods for semantic segmentation."
+excerpt: "I'm a Sr. Applied Science Manager at Amazon AWS AI working in Computer Vision. I'm interested in detection, video classification, tracking and self-supervised learning. I was part of the initial Rekogntion video launch. Before I came to AWS I was part of the team that launched Amazon GO. Before that I got my PhD under the supervision of Svetlana Lazebnik at UNC Chapel Hill with a focus on non-parametric methods for semantic segmentation."
 author_profile: true
 redirect_from: 
   - /about/
