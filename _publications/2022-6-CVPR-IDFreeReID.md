@@ -6,8 +6,8 @@ excerpt:
 date: 2022-6-1
 venue: "CVPR"
 authors: "Bing Shuai,  Xinyu Li,  Kaustav Kundu,  Joseph Tighe"
-permalink: "publications/2022-6-CVPR-IDFreeReID/index"
-paperurl: # 2022-6-CVPR-IDFreeReID/2022-6-CVPR-IDFreeReID.pdf
+permalink: # "publications/2022-6-CVPR-IDFreeReID/index"
+paperurl: "https://openaccess.thecvf.com/content/CVPR2022/papers/Shuai_Id-Free_Person_Similarity_Learning_CVPR_2022_paper.pdf"
 supurl: # 2022-6-CVPR-IDFreeReID/2022-6-CVPR-IDFreeReID-sup.pdf
 posterurl: # 2022-6-CVPR-IDFreeReID/2022-6-CVPR-IDFreeReID-poster.pdf
 slidesurl: # 2022-6-CVPR-IDFreeReID/2022-6-CVPR-IDFreeReID-slides.pdf
