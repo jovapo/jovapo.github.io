@@ -5,9 +5,9 @@ collection: publications
 excerpt: 
 date: 2022-2-1
 venue: "arXiv preprint"
-authors: "Daniel McKee, Zitong Zhan, Bing Shuai, Davide Modolo, Joseph Tighe, Svetlana Lazebnik,  "
-permalink: "publications/2022-2-arXiv preprint-VidLabProp/index"
-paperurl: # 2022-2-arXiv preprint-VidLabProp/2022-2-arXiv preprint-VidLabProp.pdf
+authors: "Daniel McKee, Zitong Zhan, Bing Shuai, Davide Modolo, Joseph Tighe, Svetlana Lazebnik"
+permalink: # "publications/2022-2-arXiv preprint-VidLabProp/index"
+paperurl: https://arxiv.org/pdf/2203.05553.pdf
 supurl: # 2022-2-arXiv preprint-VidLabProp/2022-2-arXiv preprint-VidLabProp-sup.pdf
 posterurl: # 2022-2-arXiv preprint-VidLabProp/2022-2-arXiv preprint-VidLabProp-poster.pdf
 slidesurl: # 2022-2-arXiv preprint-VidLabProp/2022-2-arXiv preprint-VidLabProp-slides.pdf
