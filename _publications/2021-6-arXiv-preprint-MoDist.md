@@ -11,7 +11,7 @@ paperurl: https://arxiv.org/pdf/2106.09703.pdf
 supurl: # 2021-6-arXiv preprint-MoDist/2021-6-arXiv preprint-MoDist-sup.pdf
 posterurl: # 2021-6-arXiv preprint-MoDist/2021-6-arXiv preprint-MoDist-poster.pdf
 slidesurl: # 2021-6-arXiv preprint-MoDist/2021-6-arXiv preprint-MoDist-slides.pdf
-codeurl: # 2021-6-arXiv preprint-MoDist/2021-6-arXiv preprint-MoDist-code.zip
+codeurl: https://github.com/amazon-research/self-supervised-maclr
 venue2: ""
 title2: ""
 authors2: "Fanyi Xiao, Joseph Tighe, Davide Modolo"
