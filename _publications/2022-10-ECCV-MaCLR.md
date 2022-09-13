@@ -12,7 +12,7 @@ paperurl: https://www.amazon.science/publications/maclr-motion-aware-contrastive
 supurl: # 2022-6-CVPR-IDFreeReID/2022-6-CVPR-IDFreeReID-sup.pdf
 posterurl: # 2022-6-CVPR-IDFreeReID/2022-6-CVPR-IDFreeReID-poster.pdf
 slidesurl: # 2022-6-CVPR-IDFreeReID/2022-6-CVPR-IDFreeReID-slides.pdf
-codeurl:
+codeurl: https://github.com/amazon-research/self-supervised-maclr
 venue2: ""
 title2: ""
 authors2: ""
