@@ -15,6 +15,7 @@ Before that I got my PhD under the supervision of [Svetlana Lazebnik](https://sl
 
 News
 ======
+* [2022] I'll be one of the ACs for the upcoming CVPR 2023.
 * [2022] Our new tracking dataset is now avalible [here](https://amazon-research.github.io/tracking-dataset/personpath22.html)!
 * [2022] We had 3 papers accepted to ECCV Links Coming soon
 * [2022] We had 4 papers accepted to CVPR
