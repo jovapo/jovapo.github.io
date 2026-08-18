@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2023-12-arXiv-preprint-EarlyAction/teaser.jpg"
 title: "Early Action Recognition with Action Prototypes"
 collection: publications
 excerpt: 

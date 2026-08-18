@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2024-06-CVPR-Workshop-ZeroShotGranularity/teaser.jpg"
 title: "Benchmarking Zero-Shot Recognition with Vision-Language Models: Challenges on Granularity and Specificity"
 collection: publications
 excerpt: 

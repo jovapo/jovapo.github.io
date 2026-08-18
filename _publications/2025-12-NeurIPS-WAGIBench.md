@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2025-12-NeurIPS-WAGIBench/teaser.jpg"
 title: "Benchmarking Egocentric Multimodal Goal Inference for Assistive Wearable Agents"
 collection: publications
 excerpt: 

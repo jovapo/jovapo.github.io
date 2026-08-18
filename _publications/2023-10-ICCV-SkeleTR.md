@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2023-10-ICCV-SkeleTR/teaser.jpg"
 title: "SkeleTR: Towards Skeleton-based Action Recognition in the Wild"
 collection: publications
 excerpt: 

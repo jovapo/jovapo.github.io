@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2024-05-ICLR-ThresholdConsistentMargin/teaser.jpg"
 title: "Threshold-Consistent Margin Loss for Open-World Deep Metric Learning"
 collection: publications
 excerpt: 

@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2025-06-arXiv-preprint-EmbodiedAIAgents/teaser.jpg"
 title: "Embodied AI Agents: Modeling the World"
 collection: publications
 excerpt: 

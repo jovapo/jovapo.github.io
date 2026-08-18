@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2025-11-arXiv-preprint-DigiData/teaser.jpg"
 title: "DigiData: Training and Evaluating General-Purpose Mobile Control Agents"
 collection: publications
 excerpt: 

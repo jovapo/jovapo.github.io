@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2026-06-CVPR-3DSpatialPriors/teaser.jpg"
 title: "Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning"
 collection: publications
 excerpt: 

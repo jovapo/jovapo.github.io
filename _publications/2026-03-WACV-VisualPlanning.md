@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2026-03-WACV-VisualPlanning/teaser.jpg"
 title: "Enhancing Visual Planning with Auxiliary Tasks and Multi-token Prediction"
 collection: publications
 excerpt: 

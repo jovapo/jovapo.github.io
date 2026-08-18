@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2022-12-NeurIPS-StochasticBackprop/teaser.jpg"
 title: "An In-depth Study of Stochastic Backpropagation"
 collection: publications
 excerpt: 

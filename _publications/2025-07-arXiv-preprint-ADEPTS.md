@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2025-07-arXiv-preprint-ADEPTS/teaser.jpg"
 title: "ADEPTS: A Capability Framework for Human-Centered Agent Design"
 collection: publications
 excerpt: 

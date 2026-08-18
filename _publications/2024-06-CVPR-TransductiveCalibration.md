@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2024-06-CVPR-TransductiveCalibration/teaser.jpg"
 title: "Learning for Transductive Threshold Calibration in Open-World Recognition"
 collection: publications
 excerpt: 

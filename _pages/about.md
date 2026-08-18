@@ -18,6 +18,7 @@ News
 * [2026] Muse Glimmer is out, an open agentic model that runs on device, with computer use capability from our team [blog](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 * [2026] I'll be on the Senior Program Committee for AAAI 2027
 * [2026] I'm a Lead AC for CVPR 2026 and an AC for both NeurIPS 2026 and ECCV 2026
+* [2026] Hierarchical Procedural Meta-Reasoning for Generalizable Multimodal Agents was accepted to the ICLR workshop on Agentic AI in the Wild [pdf](https://openreview.net/forum?id=riyrptzU16)
 * [2026] Muse Spark 1.1 is out with strong Computer Use Agent capabilities, about two years of work from the team [blog](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)
 * [2026] Our paper on injecting 3D spatial priors into vision language models for geometric reasoning was accepted to CVPR [pdf](https://arxiv.org/abs/2605.30231)
 * [2026] Enhancing Visual Planning with Auxiliary Tasks and Multi-Token Prediction was accepted to WACV [pdf](https://arxiv.org/abs/2507.15130)

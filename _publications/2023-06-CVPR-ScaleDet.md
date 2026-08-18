@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2023-06-CVPR-ScaleDet/teaser.jpg"
 title: "ScaleDet: A Scalable Multi-Dataset Object Detector"
 collection: publications
 excerpt: 

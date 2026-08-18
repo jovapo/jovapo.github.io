@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2026-05-arXiv-preprint-StatisticalPrecipice/teaser.jpg"
 title: "Computer Use at the Edge of the Statistical Precipice"
 collection: publications
 excerpt: 
