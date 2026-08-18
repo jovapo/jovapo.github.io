@@ -1,4 +1,5 @@
 ---
+teaser: "/publications/2026-04-ICLR-Workshop-ProceduralMetaReasoning/teaser.jpg"
 title: "Hierarchical Procedural Meta-Reasoning for Generalizable Multimodal Agents"
 collection: publications
 excerpt: 
